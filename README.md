@@ -1,2 +1,2 @@
 # cts89
-This is learn git
+This is to learn git
